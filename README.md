@@ -229,9 +229,3 @@ Maintain a complete graph with non-negative distances and provide plot coordinat
 | PNG is missing | Review terminal errors and check write permission in the working directory. |
 | Triangle-inequality warning | Inspect the reported distance pair; the warning identifies a property of the supplied graph. |
 | A* and brute-force mismatch | Review the modified graph, heuristic, and differing revisit rules before interpreting the result. |
-
-## License
-
-No license file is included in the supplied archive. This README does not establish reuse permissions for the project or its assets.
-o module named 'matplotlib'` (or `networkx`) | Packages not installed | Run `pip install matplotlib networkx` |
-| No `route_map.png` produced | Script did not reach the end (check terminal for an error message) | Re-run and read the printed error; ensure write permission in the folder |
